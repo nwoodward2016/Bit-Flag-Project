@@ -1,7 +1,7 @@
 /*****************************************************************************
 	Author: Nathaniel Woodward
 	Date: 2 / 9 / 16
-	Effort: 5 Hours
+	Effort: 3 Hours
 	Purpose: To make an opaque bit-flag object type and
 		program necesary functions to change the bit-flag object
 	Interface Proposal: What is missing from this data structure is 
